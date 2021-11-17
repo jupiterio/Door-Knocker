@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "doorknockmod",
-  "version": "1.0",
+  "version": "${version}",
   "name": "Door Knocker",
-  "description": "",
+  "description": "Knock on doors!",
   "authors": [
     "FroyoCS"
   ],
   "contributors": [
-    "MokkaCicc"
+    "MokkaCicc",
+    "jupiterio"
   ],
   "contact": {},
   "environment": "*",
@@ -22,6 +23,6 @@
   ],
   "depends": {
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.17.x"
   }
 }
